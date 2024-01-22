@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/b3none">
-		<img src="https://komarev.com/ghpvc/?username=b3none&color=green" alt="profile views" />
+		<img src="https://hits.dwyl.com/b3none/hits.svg?style=flat-square" alt="profile views" />
 	</a>
 </p>
 
