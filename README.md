@@ -14,6 +14,7 @@
 
 ## Private Hire
 
-I am available for private hire to develop custom plugins, setup servers, or work on custom projects for a flat hourly rate. For inquiries and to discuss potential projects, please contact me via Discord.
+I am available for private hire to develop custom plugins, setup servers, or work on custom projects for a flat hourly rate. For inquiries and to discuss potential projects, please contact me via Discord or email.
 
 - **Discord Username:** B3none
+- **Email:** ablackham2000@gmail.com
