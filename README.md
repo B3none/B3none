@@ -4,14 +4,6 @@
 	</a>
 </p>
 
-## Private Plugins
-
-- **Private Deathmatch**
-  - Description: A private deathmatch plugin, offering customisable settings, LOS spawning, multicfg and additional enhanced game mechanics.
-  - Game: Counter-Strike: 2
-  - Purchase: [Available via PayPal](https://paypal.me/b3none).
-  - Includes: Full source code access, continual updates, and bug fixes.
-
 ## Server Hosting (Recommended)
 
 Looking for reliable server hosting? [Dathost](https://dathost.net/r/b3none/cs2-server-hosting) offers top-tier performance, easy server management, and excellent support, with servers available in multiple regions across the globe. Whether you're in North America, Europe, Asia, or anywhere else, [Dathost](https://dathost.net/r/b3none/cs2-server-hosting) has you covered. Use [this link](https://dathost.net/r/b3none/cs2-server-hosting) to get **30% off your first month**. Click [here]( https://dathost.net/r/b3none/cs2-server-hosting) to get started with the discount!
